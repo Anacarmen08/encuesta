@@ -1,0 +1,22 @@
+
+div{
+/*background-color: #E0FFFF; */
+background: linear-gradient(to right, skyblue, #FCC8BD, #D2FCBD, #FCE8BD);
+
+text-transform: capitalize ;
+font-family: 'Bree Serif', serif;
+
+
+}
+
+h1{
+font-size: 16px;
+}
+
+#cult{
+background-color: white;
+font-size: 30px;
+font-weight:bold;
+color: black;
+font-style: italic;
+}

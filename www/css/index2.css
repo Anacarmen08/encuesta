@@ -1,0 +1,14 @@
+body{
+  background: linear-gradient(to right, skyblue, #FCC8BD, #D2FCBD, #FCE8BD);  
+  font-size: 30px;
+
+
+}
+div{
+	position: absolute;
+	left: 50%;
+	top: 50%;
+	transform: translate(-50%,-50%);
+	-webkit-transform:translate(-50%,-50%);
+
+}
